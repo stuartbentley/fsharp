@@ -1,0 +1,10 @@
+/Users/stuart/Dev/playground/fsharp/hello_world/bin/Debug/netcoreapp2.2/hello_world.deps.json
+/Users/stuart/Dev/playground/fsharp/hello_world/bin/Debug/netcoreapp2.2/hello_world.runtimeconfig.json
+/Users/stuart/Dev/playground/fsharp/hello_world/bin/Debug/netcoreapp2.2/hello_world.runtimeconfig.dev.json
+/Users/stuart/Dev/playground/fsharp/hello_world/bin/Debug/netcoreapp2.2/hello_world.dll
+/Users/stuart/Dev/playground/fsharp/hello_world/bin/Debug/netcoreapp2.2/hello_world.pdb
+/Users/stuart/Dev/playground/fsharp/hello_world/obj/Debug/netcoreapp2.2/hello_world.fsprojAssemblyReference.cache
+/Users/stuart/Dev/playground/fsharp/hello_world/obj/Debug/netcoreapp2.2/hello_world.AssemblyInfoInputs.cache
+/Users/stuart/Dev/playground/fsharp/hello_world/obj/Debug/netcoreapp2.2/hello_world.AssemblyInfo.fs
+/Users/stuart/Dev/playground/fsharp/hello_world/obj/Debug/netcoreapp2.2/hello_world.dll
+/Users/stuart/Dev/playground/fsharp/hello_world/obj/Debug/netcoreapp2.2/hello_world.pdb
